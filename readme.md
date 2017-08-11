@@ -1,5 +1,5 @@
 # Kirby File Types
-A little hack to show file fields only for specific file types. Should work with almost every custom field.
+A little hack to show file fields only for specific file types. Should also work for almost every custom field.
 
 ## Installation
 To install the plugin, please put it in the `site/plugins` directory.  
@@ -21,7 +21,7 @@ type: group
 fields:
 
   label:
-    label: Alt
+    label: Label
     type: text
     required: true
     fileType:
