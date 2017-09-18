@@ -1,0 +1,8 @@
+{
+  "name": "file-types",
+  "version": "1.0.0",
+  "description": "Kirby File Types",
+  "license": "MIT",
+  "author": "Lukas Kleinschmidt (https://github.com/lukaskleinschmidt)",
+  "type": "kirby-plugin"
+}
