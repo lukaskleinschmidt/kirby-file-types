@@ -1,5 +1,5 @@
 # Kirby File Types
-A little hack to show file fields only for specific file types. Should also work for almost every custom field.
+A little hack to show file fields only for specific file types.
 
 ## Installation
 To install the plugin, please put it in the `site/plugins` directory.  
