@@ -3,6 +3,7 @@
 class BaseField extends _BaseField {
 
   public $fileType;
+  public $_file;
 
   public function _file() {
     if(!is_null($this->_file)) return $this->_file;
